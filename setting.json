@@ -1,7 +1,7 @@
 {
 	"sesionName": "fazd",
-	"botName": "Fazd-bot",
-	"antiDelete": true,
+	"botName": "Lexmoon",
+	"antiDelete": false,
 	"autoRead": true,
 	"antiSpam": true,
 	"pathImg": "./media/Fazd.jpg",
